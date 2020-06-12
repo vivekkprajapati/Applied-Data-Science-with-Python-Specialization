@@ -1,1 +1,2 @@
-# Supervised Machine Learning Part 1
+# Module 2: Supervised Machine Learning - Part 1
+
