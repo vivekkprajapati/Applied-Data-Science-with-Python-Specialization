@@ -1,1 +1,1 @@
-# Fundamentals of Machine Learning- Introduction to SciKit Learn
+# Module 1: Fundamentals of Machine Learning - Intro to SciKit Learn
