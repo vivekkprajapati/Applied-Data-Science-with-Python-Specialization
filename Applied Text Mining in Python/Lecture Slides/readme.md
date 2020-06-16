@@ -1,1 +1,1 @@
-# Collections of all Lecture slides from this course
+# Collection of all Lecture slides from this course
